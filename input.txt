@@ -1,0 +1,9 @@
+ls -l
+echo "Hello, World!"
+mkdir testInput
+cd testInput
+pwd
+cd ../
+pwd
+echo "Check for the word cmdBuffer3."
+grep -r cmdBuffer3 .
